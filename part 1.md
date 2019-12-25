@@ -24,7 +24,7 @@
 
 请按照 [此处的](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 说明安装git（如果没有安装的话）***\*请注意，对于本教程，我们将仅在命令行上使用git。\****尽管有一些很棒的git GUI（图形用户界面），但我认为先使用git特定的命令学习git，然后在更熟悉该命令后尝试git GUI会更容易。 
 
-完成此操作后, 在此处创建[一个GitHub的账户](https://github.com/join).（公共存储库是免费的，但私人存储库是收费的。）
+完成此操作后, 在此处创建[一个GitHub的账户](https://github.com/join).（公共存储库是免费的，但私人仓库是收费的。）
 
 ## 步骤1***\*创建本地git存储库\**** 
 
